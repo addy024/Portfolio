@@ -9,3 +9,5 @@ Aditya Phulallwar Data Science Portfolio
 * Explored the Credit Limit and Demographic Features, Implemented One-Hot Encoding for a Categorical Feature, Explored the Finanical History Features in the Dataset, Explored the Response Variable and Concluding the Initial Exploration, Examined the Relationships between features and the Response Variable (Visualized too).
 * Modeling.
 * Characterized Costs and Savings.
+
+![](/images/CreditCardDefaults.png)
