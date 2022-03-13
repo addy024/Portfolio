@@ -2,7 +2,7 @@
 Aditya Phulallwar Data Science Portfolio
 
 
-## Project 1 - Credit Card Defaults : Project Overview
+## [Project 1 - Credit Card Defaults : Project Overview](https://github.com/addy024/Credit-Card-Defaults/blob/main/Credit_Card_Defaults_project.ipynb)
 * **Goal** - is to develop a predictive model for whether an account will default next month, given demographics and historical data.
 * Defined Business Problem. 
 * Familiarized with Data and Performed Data Cleaning with Verification of Data Integrity.
