@@ -79,4 +79,4 @@ Aditya Phulallwar Data Science Portfolio
   * Helper Function for future predictions.
   * Save Model.
 
-![](/images/rs.png)
+![](/images/movie.png)
