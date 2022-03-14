@@ -15,17 +15,17 @@ Aditya Phulallwar Data Science Portfolio
 ![](/images/CreditCardDefaults.png)
 
 
-## [Project 2 - KPI and Engagement to Conversion Explanatory Analysis on Bank Marketing] (https://github.com/addy024/KPI-and-Engagement-to-Conversion-Explanatory-Analysis-on-Bank-Marketing/blob/main/Bank_Marketing.ipynb)
+## [Project 2 - KPI and Engagement to Conversion Explanatory Analysis on Bank Marketing](https://github.com/addy024/KPI-and-Engagement-to-Conversion-Explanatory-Analysis-on-Bank-Marketing/blob/main/Bank_Marketing.ipynb)
 * **Goal** - is to identify KPI and perform Explanatory Analysis On Conversion using Modeling. 
 * Explore various factors with respect to Conversion rate, such as 
- * Contact
- * Age 
- * Age Group and Marital Status 
- * month 
- * Job 
- * Default Rates 
+> * Contact
+  * Age 
+  * Age Group and Marital Status 
+  * month 
+  * Job 
+  * Default Rates 
 * Prepared data for Explanatory Modeling (Encoded Categorical Variables)
 * Modelled a Decision Tree  
 * Intreprete the Decision Tree and Gain Insights.
 
-![]()
+![](/images/KPIAndEADecisionTree.png)
