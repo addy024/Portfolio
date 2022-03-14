@@ -42,3 +42,22 @@ Aditya Phulallwar Data Science Portfolio
 * Custom color palettes
 
 ![](/images/Airbnb.png)
+
+
+## [Project 4 - Google Play Store Exploratory Data Analysis](https://github.com/addy024/Google-Play-store-apps-exploratory-data-analysis-/blob/main/Jovaian_ml_EDA_project.ipynb)
+**Inferences and Conculsion**
+* Most of the values Size of Apps are "Varies with device" or are less than 20mb.
+* Most of the App ratings are in between 4 and 5.
+* Communication, entertainment, social and video players apps have more installations than any other categories.
+* There are more Family type of apps in the google playstore.
+* There no such strong relation to indicate that Price of app effect number of installations but it does indicating weak negative relation.
+* There are far more Free apps and paid apps.
+* Only 7% of apps are Paid ones.
+* "I'm Rich - Trump Edition" App is the most costliest app in the Google PlayStore.
+* There are 44 apps that has installations over 100 millions.
+* Communication type of apps has the most number of 100+ milions installations.
+* Looks like people really enjoyed and gave mostly positive review to "10 Best Foods for You".
+* July has most number of updates than any other months.
+* Minecraft App has earned the highest amount over 69,900,000.
+
+![](/images/GooglePlayStore.png)
