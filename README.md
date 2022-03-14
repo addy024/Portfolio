@@ -29,3 +29,16 @@ Aditya Phulallwar Data Science Portfolio
 * Intreprete the Decision Tree and Gain Insights.
 
 ![](/images/KPIAndEADecisionTree.png)
+
+
+## [Project 3 - Airbnb's in New York - Project Process Overview](https://public.tableau.com/app/profile/aditya.phulallwar/viz/AirbnbsinNewYork_16433013641550/AirbnbsinNewYorkCity)
+* Data join, blending and union.
+* Geographical Roles
+* Parameters 
+* Created a Measure Selector for displaying different measures on a graph.
+* Edited Tooltips
+* Customizing - and formatting - filters in dashboards
+* Dashboard actions
+* Custom color palettes
+
+![](/images/Airbnb.png)
