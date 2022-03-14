@@ -64,16 +64,15 @@ Aditya Phulallwar Data Science Portfolio
 
 
 ## [Project 5 - Movie Recommendation System : Project Overview](https://github.com/addy024/Movie-Recommendation-System)
-
-**Conculsions - **
+**Conculsion**
 
    * The user with the highest number of records has rated 2391 movies.
    * Each user has rated atleast 20 movies.
    * The Movie with the highest number of ratings is Forrest Gump (1994) and has been rated 341 times.
    * Each movie has been rated by atleast one user.
    * The recommendations for the userId 85 are Half Baked (1998) and Pink Flamingos (1972).
-   
-**Process - **
+
+**Process**
 
   * Import and Prepare data(join, Check validation of data,).
   * Data Analysis.
