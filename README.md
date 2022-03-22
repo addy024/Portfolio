@@ -83,3 +83,7 @@ Aditya Phulallwar Data Science Portfolio
   * Save Model.
 
 ![](/images/movie.png)
+
+
+## [Project 6 - Food101](https://github.com/addy024/Food101)
+![](/images/Samosa.png)
