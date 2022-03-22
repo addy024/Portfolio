@@ -89,4 +89,4 @@ Aditya Phulallwar Data Science Portfolio
 ![](/images/Samosa.png)
 
 ## [Project 7 - SkimLit](https://github.com/addy024/SkimLit)
-![](https://github.com/addy024/SkimLit/blob/main/model.png)
+![](/images/model.png)
