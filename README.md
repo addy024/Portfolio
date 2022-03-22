@@ -26,7 +26,7 @@ Aditya Phulallwar Data Science Portfolio
   * Default Rates 
 * Prepared data for Explanatory Modeling (Encoded Categorical Variables)
 * Modelled a Decision Tree  
-* Intreprete the Decision Tree and Gain Insights.
+* Interpret the Decision Tree and Gain Insights.
 
 ![](/images/KPIAndEADecisionTree.png)
 
