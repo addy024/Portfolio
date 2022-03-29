@@ -86,6 +86,20 @@ Aditya Phulallwar Data Science Portfolio
 
 
 ## [Project 6 - Food101](https://github.com/addy024/Food101)
+
+**Process**
+
+ * Explore the Food101 data from TensorFlow datasets
+ * plotting images
+ * Preprocessing functions 
+ * Batch and prepare dataset
+ * Modelling callbacks
+ * Setup mixed precision model
+ * Preparing model's layer for fine tuning
+ * EfficientNetB0
+ * Evaluation and Preditions 
+
+
 ![](/images/Samosa.png)
 
 ## [Project 7 - SkimLit](https://github.com/addy024/SkimLit)
