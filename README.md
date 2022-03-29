@@ -91,5 +91,17 @@ Aditya Phulallwar Data Science Portfolio
 ## [Project 7 - SkimLit](https://github.com/addy024/SkimLit)
 
 Replication of the deep learning model behind the 2017 paper PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts. Transfer Learning with pre-trained token embedding + character embedding + positional embedding.
+**Process**
+
+ * Process data
+ * Label encode
+ * baseline model with TFidfVectorizer and MultinomialNB
+ * Custom Text embedding
+ * Conv1D with token embeddings
+ * NLP feature extraction model from Tensorflow Hub
+ * Conv1D with character embedding
+ * Combining pretrained token embeddings + character embeddings (hybrid embedding layer)
+ * Transfer learning with pretrained token embeddings + character embeddings + positional embeddings (tribrid embedding)
+ * Evaluating and Predictions
 
 ![](/images/model.png)
