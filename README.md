@@ -2,6 +2,18 @@
 Aditya Phulallwar Data Science Portfolio
 
 
+## [Project 0 - Recette : Project Overview](https://github.com/addy024/recette)
+* Recette is a recipe book plus an e-commerce app. It features recipes all over the cuisines and service to purchase online all the ingredients required to make your
+favourite recipe all in a single app.
+* Recette specialist is that it is a Single Page Application (SPA) and cross-platform application well simply it can run on any browser and also IOS and android mobile device. 
+* Recette not only provides the platform for the home chef to publish their recipes to a whole world but also earn some commission form their work.
+* Well, there may be many blogs or even an app for recipes, but the problem arises when you start to prepare them. Most of the time, you won't get all the ingredients
+at your local store, you want to make that delicious dish, you give up making them. But not anymore with the Recette you can order all the required ingredients
+for your recipe in a single click. All the ingredients with the required amount will be delivered at your doorstep.
+
+![](/images/recette1.png)
+![](/images/recette2.png)
+
 ## [Project 1 - Credit Card Defaults : Project Overview](https://github.com/addy024/Credit-Card-Defaults/blob/main/Credit_Card_Defaults_project.ipynb)
 * **Goal** - is to develop a predictive model for whether an account will default next month, given demographics and historical data.
 * Defined Business Problem. 
