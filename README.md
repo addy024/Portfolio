@@ -138,6 +138,8 @@ Replication of the deep learning model behind the 2017 paper PubMed 200k RCT: a 
 
 **Scenario:** We will be resposible for processing New York City Taxi Service data. There are three types of taxis/services in New York. Yellow Taxis, Green Taxis and For Hire Vehicles and We collect ride-related information. We receive this data once a month in the form of different file format such as parquet, csv, json, etc. Our Task is to Orchestrate the pipeline for extract, Transform and build dimensions and facts for making monthly aggregated reports and KPIs.
 
+Data Source - https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 ![](/images/Report1.png)
 
 **Orchestrating the Pipeline Process**
