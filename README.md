@@ -132,3 +132,21 @@ Replication of the deep learning model behind the 2017 paper PubMed 200k RCT: a 
  * Evaluating and Predictions
 
 ![](/images/model.png)
+
+
+## [Project 8 - Nyc Taxi Data ETL Pipeline and Reporting Dashboard](https://github.com/addy024/NycTaxiDatasetETLAndReporting)
+
+**Scenario:** We will be resposible for processing New York City Taxi Service data. There are three types of taxis/services in New York. Yellow Taxis, Green Taxis and For Hire Vehicles and We collect ride-related information. We receive this data once a month in the form of different file format such as parquet, csv, json, etc. Our Task is to Orchestrate the pipeline for extract, Transform and build dimensions and facts for making monthly aggregated reports and KPIs.
+
+![](/images/Report1.png)
+
+**Orchestrating the Pipeline Process**
+ * Build Data Lake (Databricks DBFS)
+ * Capture raw data in DataLake.
+ * Use Databricks to profile, merge & process data. (Spark, Scala)
+ * Build dimensions, facts, KPIs & reporting (Spark, Scala, Spark sql, Databricks Dashboard)
+ * Store Data back to Data lake 
+
+![](/images/Report2.png)
+
+![]([/images/Dashwarehouse.png](https://github.com/addy024/Portfolio/blob/main/images/Datawarehouse.png))
