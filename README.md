@@ -12,7 +12,7 @@ at your local store, you want to make that delicious dish, you give up making th
 for your recipe in a single click. All the ingredients with the required amount will be delivered at your doorstep.
 
 ![](/images/recette1.png)
-![](/images/recette2.png)
+
 
 ## [Project 1 - Credit Card Defaults : Project Overview](https://github.com/addy024/Credit-Card-Defaults/blob/main/Credit_Card_Defaults_project.ipynb)
 * **Goal** - is to develop a predictive model for whether an account will default next month, given demographics and historical data.
