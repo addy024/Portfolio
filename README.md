@@ -157,7 +157,7 @@ Data Source - https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Customer Analysis For Customer Behavior and Predicting The Likelihood Of Marketing Engagement on IBM Watson Marketing Customer Value Data.
 
-![](/images/ROC_AUC.png)
+![](/images/PM.png)
 
 **Discovering**
  * Overall Engagement Rate
