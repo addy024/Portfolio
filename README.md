@@ -152,3 +152,19 @@ Data Source - https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 ![](/images/Report2.png)
 
 ![]([/images/Dashwarehouse.png](https://github.com/addy024/Portfolio/blob/main/images/Datawarehouse.png))
+
+## [Project 9 - Personalized Marketing](https://github.com/addy024/Personalized-Marketing/blob/main/Personalized_Marketing_CustomerAnalysisForCustomerBehavior_PredictiongTheLikelihoodOfMarketingEngagement/PMCAFCBPTLOME.html)
+
+Customer Analysis For Customer Behavior and Predicting The Likelihood Of Marketing Engagement on IBM Watson Marketing Customer Value Data.
+
+![](/images/ROC_AUC.png)
+
+**Discovering**
+ * Overall Engagement Rate
+ * Engagement Rates By Offer Type
+ * Engagement Rates By Offer Type and Vehicle Class
+ * Engagement Rates By Sales channel
+ * Engagement Rates By Sales Channel And Vehicle Size
+ * Engagement Rates by Months Since Policy Inception
+ * Segmenting Customer Base
+ * Building Predictive Models - Importance Features
