@@ -15,9 +15,9 @@ This project focuses on building a scalable data pipeline for processing and ana
 ## [Chicago Crash GCP Data Engineering Project](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project)
 The Chicago Traffic Crash ETL (Extract, Transform, Load) project aims to process and analyze data related to traffic crashes in Chicago. The project extracts raw data from various sources, transforms it into a structured format, and loads it into a data warehouse for analysis. By leveraging Spark for data processing and analysis, the project provides valuable insights into traffic crash trends, contributing to informed decision-making and improved road safety measures.
 
-![Dashboard](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/Screenshot%202024-04-02%20023441.png)
+![GCP_WORKFLOW](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/GCP_WORFLOW.png)
 
-![GCP_WORKFLOW](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/GCP_workflow.png)
+![Dashboard](https://github.com/addy024/DEZOOMCAMP_Chicago_Crash_Project/blob/main/Screenshot%202024-04-02%20023441.png)
 
 ### 🔧 Tech Stack & Tools  
 
